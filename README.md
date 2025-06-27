@@ -7,10 +7,10 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/putrasultan/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/svpn1/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### INSTALL AUTOCLEAR LOG 
-<pre><code>wget -q https://raw.githubusercontent.com/putrasultan/vip/main/autoclear.sh && chmod +x autoclear.sh && ./autoclear.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/svpn1/vip/main/autoclear.sh && chmod +x autoclear.sh && ./autoclear.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
